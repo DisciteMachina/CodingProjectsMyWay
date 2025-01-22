@@ -1,3 +1,10 @@
-# CodingProjectsMyWay
-# CodingProjectsMyWay
-# CodingProjectsMyWay
+This is where I will store my what I 
+code while following along daily with <i>
+The Coding Train (https://www.youtube.com/@TheCodingTrain)
+</i> On YouTube.
+
+Mostly for self motivation to actually code something.
+
+
+
+
