@@ -34,7 +34,7 @@ public class Snake {
         }
 
         switch(direction) {
-            
+
         }
     }
 
