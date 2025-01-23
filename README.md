@@ -1,4 +1,4 @@
-This is where I will store my what I 
+This is where I will store what I 
 code while following along daily with <i>
 The Coding Train (https://www.youtube.com/@TheCodingTrain)
 </i> On YouTube.
